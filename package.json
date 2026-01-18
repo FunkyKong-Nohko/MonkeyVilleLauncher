@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
+  "name": "Monkey Ville Launcher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "Monkey Ville Launcher",
+  "description": "Survie Minecraft MonkeyVille",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/FunkyKong-Nohko/MonkeyVilleLauncher.git"
   }
 }
